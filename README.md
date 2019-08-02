@@ -1,4 +1,7 @@
 # Desktop Apps
+# Languages Used:
+VB.NET , SQL Server DB , Oracle Crystal Report.
+# Samples of my work:
 - Employees System
 <img src="https://user-images.githubusercontent.com/48783969/62401820-7a658300-b58d-11e9-89be-a7ac3fd8d62e.png" width="550" height="300">
 <img src="https://user-images.githubusercontent.com/48783969/62401801-6e79c100-b58d-11e9-9a89-a3e66b674589.png" width="550" height="300">
